@@ -1,0 +1,9 @@
+.expired {
+    background-color: red;
+}
+.secondItem {
+    background-color: goldenrod;
+}
+.finishedItem {
+    background-color: greenyellow;
+}
